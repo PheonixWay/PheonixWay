@@ -1,0 +1,25 @@
+name: Waka Readme
+
+on:
+  schedule:
+    # Action ko har din 12 AM UTC par run karega
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    # Ye action ko manually run karne deta hai
+
+jobs:
+  update-readme:
+    name: Update Readme with WakaTime Stats
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Tumhari repository ke code ko fetch karega
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      # Step 2: WakaTime stats ko generate aur README mein add karega
+      - name: Update WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          wakatime_apikey: ${{ secrets.WAKATIME_API_KEY }}
