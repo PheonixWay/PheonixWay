@@ -1,0 +1,13 @@
+# Common files to ignore
+node_modules/
+.env
+.DS_Store
+*.log
+dist/
+build/
+.vscode/
+.idea/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
