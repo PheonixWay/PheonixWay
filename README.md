@@ -44,78 +44,79 @@ const Pheonix Way = {
 ---
 
 <!--START_SECTION:waka-->
-
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-133-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-178-blue)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 41.5 kB Used in GitHub's Storage
->
+> 📦 41.6 kB Used in GitHub's Storage 
+ > 
 > 🏆 7 Contributions in the Year 2025
->
+ > 
 > 🚫 Not Opted to Hire
->
-> 📜 10 Public Repositories
->
-> 🔑 6 Private Repositories
->
-> **I'm an Early 🐤**
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 6 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                91 commits          █████░░░░░░░░░░░░░░░░░░░░   18.24 %
-🌆 Daytime                274 commits         ██████████████░░░░░░░░░░░   54.91 %
-🌃 Evening                83 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
-🌙 Night                  51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.22 %
+🌞 Morning                91 commits          █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+🌆 Daytime                274 commits         ██████████████░░░░░░░░░░░   54.80 % 
+🌃 Evening                83 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+🌙 Night                  52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
 ```
-
-📅 **I'm Most Productive on Friday**
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-Tuesday                  60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
-Wednesday                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
-Thursday                 52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.42 %
-Friday                   124 commits         ██████░░░░░░░░░░░░░░░░░░░   24.85 %
-Saturday                 117 commits         ██████░░░░░░░░░░░░░░░░░░░   23.45 %
-Sunday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+Monday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Tuesday                  61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Wednesday                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Thursday                 52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Friday                   124 commits         ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
+Saturday                 117 commits         ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+Sunday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages:
+💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors:
+🔥 Editors: 
 No Activity Tracked This Week
 
-🐱‍💻 Projects:
+🐱‍💻 Projects: 
 No Activity Tracked This Week
 
-💻 Operating System:
+💻 Operating System: 
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript**
+**I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               9 repos             █████████░░░░░░░░░░░░░░░░   37.50 %
-TypeScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83 %
-Kotlin                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+JavaScript               9 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+TypeScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Kotlin                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
+
+
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/PheonixWay/PheonixWay/main/assets/bar_graph.png)
 
-Last Updated on 22/09/2025 23:20:18 UTC
 
+ Last Updated on 23/09/2025 00:58:53 UTC
 <!--END_SECTION:waka-->
 
 **These Readme Stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
