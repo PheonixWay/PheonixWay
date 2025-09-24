@@ -44,15 +44,13 @@ const Pheonix Way = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-178-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-183-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 41.6 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2025
+> 🏆 10 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,45 +58,6 @@ const Pheonix Way = {
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                91 commits          █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-🌆 Daytime                274 commits         ██████████████░░░░░░░░░░░   54.80 % 
-🌃 Evening                83 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-🌙 Night                  52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Tuesday                  61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Wednesday                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Thursday                 52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Friday                   124 commits         ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
-Saturday                 117 commits         ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-Sunday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -116,7 +75,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PheonixWay/PheonixWay/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2025 00:58:53 UTC
+ Last Updated on 24/09/2025 00:59:51 UTC
 <!--END_SECTION:waka-->
 
 **These Readme Stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
