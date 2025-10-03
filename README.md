@@ -44,8 +44,6 @@ const Pheonix Way = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%205%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-186-blue)
 
 **🐱 My GitHub Data** 
@@ -60,45 +58,6 @@ const Pheonix Way = {
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                92 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-🌆 Daytime                295 commits         ██████████████░░░░░░░░░░░   56.30 % 
-🌃 Evening                85 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-🌙 Night                  52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Tuesday                  62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Wednesday                67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Thursday                 54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Friday                   128 commits         ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-Saturday                 126 commits         ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-Sunday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -116,7 +75,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PheonixWay/PheonixWay/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 00:58:42 UTC
+ Last Updated on 03/10/2025 00:58:59 UTC
 <!--END_SECTION:waka-->
 
 **These Readme Stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
