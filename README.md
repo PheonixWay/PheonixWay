@@ -44,6 +44,8 @@ const Pheonix Way = {
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2038%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-186-blue)
 
 **🐱 My GitHub Data** 
@@ -58,6 +60,47 @@ const Pheonix Way = {
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                92 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+🌆 Daytime                298 commits         ██████████████░░░░░░░░░░░   56.55 % 
+🌃 Evening                85 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+🌙 Night                  52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Tuesday                  62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Wednesday                67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Thursday                 54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Friday                   131 commits         ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+Saturday                 126 commits         ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+Sunday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               29 mins             ███████████████████████░░   90.53 % 
+Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+
+🔥 Editors: 
+VS Code                  32 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+AuthService              29 mins             ███████████████████████░░   92.01 % 
+ApiGatewayService        2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+
+💻 Operating System: 
+Windows                  32 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -75,7 +118,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PheonixWay/PheonixWay/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 00:58:59 UTC
+ Last Updated on 04/10/2025 00:56:21 UTC
 <!--END_SECTION:waka-->
 
 **These Readme Stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
