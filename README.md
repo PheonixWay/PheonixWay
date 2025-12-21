@@ -44,7 +44,7 @@ const Pheonix Way = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -87,17 +87,18 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               8 hrs 2 mins        ████████████████████████░   96.47 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+TypeScript               7 hrs 12 mins       ████████████████████████░   95.38 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+HTML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 19 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ShopcardMigratedBE       8 hrs 19 mins       █████████████████████████   100.00 % 
+ShopcardMigratedBE       7 hrs 33 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -117,7 +118,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PheonixWay/PheonixWay/main/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2025 01:04:25 UTC
+ Last Updated on 21/12/2025 01:12:39 UTC
 <!--END_SECTION:waka-->
 
 **These Readme Stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
