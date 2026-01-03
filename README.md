@@ -44,8 +44,6 @@ const Pheonix Way = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%204%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
@@ -60,45 +58,6 @@ const Pheonix Way = {
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                372 commits         ███████░░░░░░░░░░░░░░░░░░   27.45 % 
-🌆 Daytime                715 commits         █████████████░░░░░░░░░░░░   52.77 % 
-🌃 Evening                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-🌙 Night                  52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Tuesday                  176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Wednesday                206 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Thursday                 179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Friday                   225 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Saturday                 286 commits         █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Sunday                   133 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               4 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-ShopcardMigratedBE       4 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -116,7 +75,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PheonixWay/PheonixWay/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 01:10:39 UTC
+ Last Updated on 03/01/2026 01:05:41 UTC
 <!--END_SECTION:waka-->
 
 **These Readme Stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
