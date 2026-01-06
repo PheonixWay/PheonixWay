@@ -44,7 +44,9 @@ const Pheonix Way = {
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2019%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -58,6 +60,45 @@ const Pheonix Way = {
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                374 commits         ███████░░░░░░░░░░░░░░░░░░   27.34 % 
+🌆 Daytime                717 commits         █████████████░░░░░░░░░░░░   52.41 % 
+🌃 Evening                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+🌙 Night                  52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Tuesday                  176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Wednesday                206 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Thursday                 180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Friday                   226 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Saturday                 287 commits         █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+Sunday                   141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -75,7 +116,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PheonixWay/PheonixWay/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 01:17:06 UTC
+ Last Updated on 06/01/2026 01:10:02 UTC
 <!--END_SECTION:waka-->
 
 **These Readme Stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
