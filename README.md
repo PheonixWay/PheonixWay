@@ -50,7 +50,7 @@ const Pheonix Way = {
 
 **🐱 My GitHub Data** 
 
-> 📦 48.5 kB Used in GitHub's Storage 
+> 📦 48.6 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -116,7 +116,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PheonixWay/PheonixWay/main/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2026 01:10:53 UTC
+ Last Updated on 08/01/2026 01:10:51 UTC
 <!--END_SECTION:waka-->
 
 **These Readme Stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
