@@ -87,19 +87,16 @@ Sunday                   145 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    5 mins              █████████████░░░░░░░░░░░░   51.15 % 
-TypeScript               4 mins              ██████████░░░░░░░░░░░░░░░   41.02 % 
-Bash                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ShopcardMigratedBE       10 mins             █████████████████████████   99.72 % 
-GDAgent                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +116,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PheonixWay/PheonixWay/main/assets/bar_graph.png)
 
 
- Last Updated on 19/01/2026 01:15:16 UTC
+ Last Updated on 20/01/2026 01:09:37 UTC
 <!--END_SECTION:waka-->
 
 **These Readme Stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
