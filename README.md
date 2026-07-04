@@ -46,11 +46,11 @@ const Pheonix Way = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2017%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 91.4 kB Used in GitHub's Storage 
+> 📦 91.5 kB Used in GitHub's Storage 
  > 
 > 🏆 397 Contributions in the Year 2026
  > 
@@ -116,7 +116,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PheonixWay/PheonixWay/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2026 02:12:19 UTC
+ Last Updated on 04/07/2026 02:10:37 UTC
 <!--END_SECTION:waka-->
 
 **These Readme Stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
