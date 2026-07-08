@@ -10,7 +10,7 @@
 ```javascript
 const Pheonix Way = {
     pronouns: "He" | "Him",
-    Languages: ["TypeScript", "Javascript", "Python", "Dart","C","CPP","java"],
+    Languages: ["TypeScript", "Javascript", "Python","C","CPP","java"],
     askMeAbout: ["web dev", "app dev","System Design"],
     technologies: {
         frontEnd: {
@@ -24,8 +24,8 @@ const Pheonix Way = {
             crossPlatform: ["Flutter","React Native"],
             NativePlatform: ["AndroidStudio"]
         },
-        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
-        databases: ["PostgreSQL", "MongoDB","Firebase Serivce", "redis"],
+        devOps: ["Docker", "CI/CD", "Nginx", "GitHub Actions"],
+        databases: ["PostgreSQL", "MongoDB","Firebase Serivce", "redis","RabitMQ"],
         misc: ["REST APIs"],
         generativeAI: ["GPT","Claude","Gemini","Grok"],
     },
@@ -34,7 +34,6 @@ const Pheonix Way = {
         backEnd: ["microservices", "monolithic"],
         databases: ["Relational", "NoSQL"],
     },
-    currentFocus: "Designing the scalabe backend",
     funFact: "I can debug faster while listening to Music...."
 };
 ```
