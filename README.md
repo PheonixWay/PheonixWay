@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430](https://tenor.com/view/long-livethe-blob-sunglasses-smirk-smug-smiling-gif-14457648" width="30"/> Hey there, PheonixWay here! </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="https://www.shopcardd.com/index.html">Shopcardd</p>
+<p><em>Full Stack Dev at <a href="https://www.shopcardd.com/index.html">Shopcardd</p>
 
 [![Linkedin: Danish Ansari](https://img.shields.io/badge/-DanishAnsari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danishansari222002/)](https://www.linkedin.com/in/danishansari222002/)
 ![GitHub followers](https://img.shields.io/github/followers/PheonixWay?label=Follow&style=social)
