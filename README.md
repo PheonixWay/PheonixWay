@@ -43,6 +43,8 @@ const Pheonix Way = {
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2017%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -57,6 +59,45 @@ const Pheonix Way = {
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                845 commits         ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+🌆 Daytime                1583 commits        █████████████░░░░░░░░░░░░   52.04 % 
+🌃 Evening                462 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+🌙 Night                  152 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Tuesday                  423 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Wednesday                550 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Thursday                 476 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Friday                   479 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Saturday                 544 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Sunday                   229 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -74,7 +115,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PheonixWay/PheonixWay/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 02:00:02 UTC
+ Last Updated on 26/07/2026 02:04:50 UTC
 <!--END_SECTION:waka-->
 
 **These Readme Stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
