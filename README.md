@@ -43,9 +43,11 @@ const Pheonix Way = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2034%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2025%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -98,14 +100,20 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               21 repos            ██████████░░░░░░░░░░░░░░░   42.00 % 
+TypeScript               22 repos            ███████████░░░░░░░░░░░░░░   44.00 % 
 JavaScript               15 repos            ████████░░░░░░░░░░░░░░░░░   30.00 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
@@ -115,7 +123,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PheonixWay/PheonixWay/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 02:11:40 UTC
+ Last Updated on 28/07/2026 01:52:57 UTC
 <!--END_SECTION:waka-->
 
 **These Readme Stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
