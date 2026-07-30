@@ -43,6 +43,10 @@ const Pheonix Way = {
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2034%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2025%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -60,21 +64,21 @@ const Pheonix Way = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                848 commits         ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-🌆 Daytime                1588 commits        █████████████░░░░░░░░░░░░   52.07 % 
-🌃 Evening                462 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+🌞 Morning                848 commits         ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+🌆 Daytime                1591 commits        █████████████░░░░░░░░░░░░   52.11 % 
+🌃 Evening                462 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
 🌙 Night                  152 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Tuesday                  423 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Wednesday                550 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Thursday                 476 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-Friday                   479 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Saturday                 544 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Sunday                   237 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Monday                   341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Tuesday                  424 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Wednesday                552 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Thursday                 476 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Friday                   479 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Saturday                 544 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Sunday                   237 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 ```
 
 
@@ -119,7 +123,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PheonixWay/PheonixWay/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 01:56:15 UTC
+ Last Updated on 30/07/2026 01:48:12 UTC
 <!--END_SECTION:waka-->
 
 **These Readme Stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
