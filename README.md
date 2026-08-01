@@ -64,21 +64,21 @@ const Pheonix Way = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                848 commits         ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-🌆 Daytime                1593 commits        █████████████░░░░░░░░░░░░   52.09 % 
-🌃 Evening                465 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-🌙 Night                  152 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+🌞 Morning                848 commits         ███████░░░░░░░░░░░░░░░░░░   27.69 % 
+🌆 Daytime                1593 commits        █████████████░░░░░░░░░░░░   52.01 % 
+🌃 Evening                470 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+🌙 Night                  152 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Tuesday                  424 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Wednesday                552 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Thursday                 481 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Friday                   479 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Saturday                 544 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Sunday                   237 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Monday                   341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Tuesday                  424 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Wednesday                552 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Thursday                 481 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Friday                   484 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Saturday                 544 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Sunday                   237 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
 ```
 
 
@@ -123,7 +123,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PheonixWay/PheonixWay/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 02:05:34 UTC
+ Last Updated on 01/08/2026 02:06:51 UTC
 <!--END_SECTION:waka-->
 
 **These Readme Stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
