@@ -43,17 +43,13 @@ const Pheonix Way = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2034%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2025%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 107.6 kB Used in GitHub's Storage 
  > 
-> 🏆 59 Contributions in the Year 2026
+> 🏆 1,009 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,51 +57,6 @@ const Pheonix Way = {
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                850 commits         ███████░░░░░░░░░░░░░░░░░░   27.57 % 
-🌆 Daytime                1608 commits        █████████████░░░░░░░░░░░░   52.16 % 
-🌃 Evening                473 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-🌙 Night                  152 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   361 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Tuesday                  424 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Wednesday                552 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Thursday                 481 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Friday                   484 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Saturday                 544 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Sunday                   237 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -123,7 +74,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PheonixWay/PheonixWay/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 01:53:54 UTC
+ Last Updated on 07/08/2026 02:16:49 UTC
 <!--END_SECTION:waka-->
 
 **These Readme Stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
