@@ -43,28 +43,77 @@ const Pheonix Way = {
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2034%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2025%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 107.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,009 Contributions in the Year 2026
+> 🏆 1,019 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 24 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1092 commits        ███████░░░░░░░░░░░░░░░░░░   28.37 % 
+🌆 Daytime                1979 commits        █████████████░░░░░░░░░░░░   51.42 % 
+🌃 Evening                610 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+🌙 Night                  168 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   465 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Tuesday                  550 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Wednesday                686 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Thursday                 582 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Friday                   613 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Saturday                 689 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Sunday                   264 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               22 repos            ███████████░░░░░░░░░░░░░░   44.00 % 
-JavaScript               15 repos            ████████░░░░░░░░░░░░░░░░░   30.00 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               22 repos            ███████████░░░░░░░░░░░░░░   43.14 % 
+JavaScript               15 repos            ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
@@ -74,7 +123,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PheonixWay/PheonixWay/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 02:16:49 UTC
+ Last Updated on 08/08/2026 01:05:37 UTC
 <!--END_SECTION:waka-->
 
 **These Readme Stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
