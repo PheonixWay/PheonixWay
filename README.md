@@ -51,9 +51,9 @@ const Pheonix Way = {
 
 **🐱 My GitHub Data** 
 
-> 📦 108.0 kB Used in GitHub's Storage 
+> 📦 108.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,058 Contributions in the Year 2026
+> 🏆 1,072 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,21 +64,21 @@ const Pheonix Way = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                797 commits         ████████░░░░░░░░░░░░░░░░░   30.88 % 
-🌆 Daytime                1187 commits        ███████████░░░░░░░░░░░░░░   45.99 % 
-🌃 Evening                508 commits         █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-🌙 Night                  89 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+🌞 Morning                800 commits         ████████░░░░░░░░░░░░░░░░░   30.66 % 
+🌆 Daytime                1194 commits        ███████████░░░░░░░░░░░░░░   45.76 % 
+🌃 Evening                526 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+🌙 Night                  89 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Tuesday                  386 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Wednesday                395 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Thursday                 325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Friday                   421 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Saturday                 480 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Sunday                   250 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Monday                   324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Tuesday                  386 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Wednesday                395 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Thursday                 325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Friday                   421 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Saturday                 481 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Sunday                   277 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
 ```
 
 
@@ -109,8 +109,8 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               11 repos            █████████░░░░░░░░░░░░░░░░   35.48 % 
-JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+TypeScript               12 repos            ██████████░░░░░░░░░░░░░░░   38.71 % 
+JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
 C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
 Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
@@ -123,7 +123,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PheonixWay/PheonixWay/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 00:51:42 UTC
+ Last Updated on 17/08/2026 00:48:31 UTC
 <!--END_SECTION:waka-->
 
 **These Readme Stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
